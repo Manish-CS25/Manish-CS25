@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I'm Manish Bairwa, an M.Tech student at IIT Gandhinagar.<br><br>    📚 Studying Computer Science & Engineering and loving every bit of it.<br>    💻 Passionate about coding, especially with the MERN stack.<br>    🧠  Enthusiastic about AI and ML, always exploring new ideas.<br><br>Fun Facts<br><br>    🏏  When I'm not coding, you'll find me hitting sixes on the cricket field.<br>
+👋 Hey there! I'm Manish Bairwa, an M.Tech student at IIT Gandhinagar.<br><br>    📚 Studying Computer Science & Engineering and loving every bit of it.<br>    💻 Passionate about coding, especially with the MERN stack.<br>    🧠  Enthusiastic about AI and ML, always exploring new ideas.<br><br>Fun Facts<br><br>    🏏  When I'm not coding, you'll find me playing cricket.<br>
 
 
 ## 🌐 Socials:
